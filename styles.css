@@ -1,4 +1,9 @@
 body {
-    background-color: rgb(247, 251, 252);
+    background-color: #f7fbfc;
     margin-left: 10%;
+    text-align: left;
+}
+
+#trimmer{
+    align-content: left;
 }
